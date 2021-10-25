@@ -15,7 +15,7 @@ function Footer() {
 						Bookify
 					</h2> */}
 					<p>
-						© 2021 Flone. <br /> All Rights Reserved
+						© 2021 Bookify. <br /> All Rights Reserved
 					</p>
 				</Col>
 				<Col xs="6" sm="3">
